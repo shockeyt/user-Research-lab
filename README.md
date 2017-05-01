@@ -20,7 +20,7 @@ You'll need to conduct User research on a your chosen project 3 space:
 1. Internal/External - Personal history, mood, Location, relationships
 2. Goals and tasks - what are they trying to accomplish?
 3. Habits - What services to they commonly use? Are they part of your target demographic?
-4. Access - how are they accessing your service? Device, OS, phsical location, etc
+4. Access - how are they accessing your service? Device, OS, physical location, etc
 5. When - Is there a certain time of day or location in which they use the service?
 
 ## User Interviews
